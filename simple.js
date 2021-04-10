@@ -9,4 +9,4 @@ console.log(a);
  size[1]=50.3
  console.log(a);
 
-console.log(size);
+// console.log(size);
